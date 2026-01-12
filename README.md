@@ -1,6 +1,6 @@
 # FlashMarket
 
-Proyecto desarrollado como Trabajo de Fin de Grado en grupo, que conservo como parte de mi portfolio por ser **mi primer proyecto completo** y por las tecnologías que aprendí y apliqué durante su desarrollo.
+Proyecto desarrollado como Trabajo de Fin de Grado en grupo, que conservo como parte de mi portfolio por ser mi primer proyecto completo y por las tecnologías que aprendí y apliqué durante su desarrollo.
 
 Yo me hice cargo de la recolección y gestión de productos de supermercados online, utilizando técnicas de web scraping para obtener información y almacenarla en una base de datos mySQL.
 

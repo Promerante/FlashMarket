@@ -9,7 +9,7 @@ Mi objetivo fue:
 - Normalizar datos.
 - Persistirlos en una base de datos mySQL.
 
-## ⚙️ Qué hace el código
+## Qué hace el código
 
 El código realiza las siguientes tareas:
 
@@ -26,13 +26,13 @@ El código realiza las siguientes tareas:
 - Inserta los productos en nuestra base de datos.
 - Actualiza el precio si el producto ya existe en la base de datos.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 - Node.js
 - Puppeteer + puppeteer-extra-plugin-stealth
 - Cheerio
 - JavaScript
 - MySQL
 
-## 💡 Nota personal
+## Nota personal
 
 Este proyecto tiene un valor especial para mí porque fue mi primer proyecto completo, donde aprendí conceptos clave de desarrollo backend, scraping y bases de datos y sobre todo el trabajo en equipo con mis compañeros.
